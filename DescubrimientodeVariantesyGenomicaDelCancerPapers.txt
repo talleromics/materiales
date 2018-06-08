@@ -1,0 +1,17 @@
+Papers sobre el tema de descubrimiento de variantes:
+
+A Begginer's Guide to SNP calling (review)
+
+Utilization of whole-exome sequencing to identify causative mutations in Familial Congenital Heart Disease (case familial)
+
+Trio-based exome sequencing arrests de novo mutations in early-onset high myopia (case de novo)
+
+https://drive.google.com/file/d/1sLWWScWPVsYlYx1-IxK341vE9wqmt4Qm/view?usp=sharing
+
+Papers sobre el tema de la genomica del cancer:
+
+From human genome to cancer genome:The first decade (review)
+https://drive.google.com/file/d/12LTLXTNM6qps76a6jXmxmEOw9OFSeP67/view?usp=sharing
+
+Landscape of somatic mutations in 560  breast cancer whole-genome sequences (case)
+https://drive.google.com/file/d/1wmhR4-rT_aJFcMCuq2BHB7aPtDqhg8zo/view?usp=sharing
